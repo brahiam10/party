@@ -1,0 +1,32 @@
+.titulo1{
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Oswald', sans-serif;
+}
+.titulo2{
+    font-family: 'Inconsolata', monospace;
+    color:white ;
+}
+.titulo3{
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color:black ;
+    color: brown;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/a8/24/7b/a8247b4425bc49463e4c2bdc3a3cd0a3.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 2500px;
+}
+
